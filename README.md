@@ -19,7 +19,8 @@ Hardware that is owned by community members, that can possibly be borrowed.
 
 Contact me on [twitter](https://twitter.com/finnpauls).
 
-- Arduino Uno
-- Funduino Uno
-- [rad1o](https://rad1o.badge.events.ccc.de/)
-- Myo
+- 1 Arduino Uno (with network shield)
+- 1 Funduino Uno
+- 1 [rad1o](https://rad1o.badge.events.ccc.de/)
+- 1 Myo
+- 1 Tessel 2
