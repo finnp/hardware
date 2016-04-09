@@ -1,6 +1,6 @@
-# Hardware
+# Hardware Berlin
 
-## Ruby Berlin
+## Ruby Berlin e.V.
 
 Open an [issue](https://github.com/finnp/hardware/issues) if you are interested in borrowing hardware for an event.
 
