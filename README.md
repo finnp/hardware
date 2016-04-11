@@ -6,10 +6,9 @@ Open an [issue](https://github.com/finnp/hardware/issues) if you are interested 
 
 Hardware that is owned by [Ruby Berlin e.V.](http://rubyberlin.org/)
 
-| Quantity   | Product                         | Donated by   | Where?        |
-|------------|---------------------------------|--------------|---------------|
-| 10         | [Tessel 2](https://tessel.io/)  |  Asquera     | Finn          |
-
+| Quantity         | Product                         | Donated by   | Where?        |
+|------------------|---------------------------------|--------------|---------------|
+| [10](tessel.md)  | [Tessel 2](https://tessel.io/)  |  Asquera     | Finn          |
 
 ## Community owned hardware
 
